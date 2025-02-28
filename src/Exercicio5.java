@@ -4,7 +4,7 @@ calcule a quantidade de salários mínimos esse usuário ganha e imprima o resul
 
 import java.util.Scanner;
 
-public class Exercício5 {
+public class Exercicio5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
